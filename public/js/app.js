@@ -49839,8 +49839,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\программирование\OSPanel\domains\laralessonuz\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! E:\программирование\OSPanel\domains\laralessonuz\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! B:\programming\OSPanel\domains\laralesson.uz\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! B:\programming\OSPanel\domains\laralesson.uz\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
